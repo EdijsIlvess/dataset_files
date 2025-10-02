@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Aizsegta ce\u013ca z\u012bme"
+    },
+    {
+      "id": 1,
+      "name": "Kritiska ce\u013ca z\u012bme"
+    },
+    {
+      "id": 2,
+      "name": "Neaizsegta ce\u013ca z\u012bme"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

@@ -1,0 +1,3 @@
+Aizsegta ceļa zīme
+Kritiska ceļa zīme
+Neaizsegta ceļa zīme
